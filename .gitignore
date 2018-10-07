@@ -1,0 +1,5 @@
+venv/
+playgroung/
+
+*pyc
+.idea/
